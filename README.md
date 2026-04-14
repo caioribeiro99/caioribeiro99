@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Caio Ribeiro 👋</h1>
 <p align="center">
-  <strong>Senior Analytics Engineer</strong> · <strong>M.Sc. in Industrial Engineering (Machine Learning)</strong> · <strong>Ph.D. Candidate</strong>
+  <strong>Senior Analytics Engineer</strong> · <strong>M.Sc. in Industrial Engineering (Machine Learning)</strong> · <strong>Ph.D. Student</strong>
   <br/>
   Building modern data platforms, semantic layers, and reliable analytics for international teams.
 </p>
